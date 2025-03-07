@@ -1,4779 +1,817 @@
 [
   {
-    "endpoint": "GLOBAL-SERP",
-    "requestsToday": 845,
-    "successRate": 99.1,
+    "endpoint": "SOUTHAMERICA-WEST1",
+    "requestsToday": 163,
+    "totalQueries": 163,
+    "successRate": 53.1,
     "queries": [
       {
-        "id": 678,
-        "query": "Prada",
-        "featured": false,
-        "count": 29,
-        "category": "Clothing",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 5
-          },
-          {
-            "hour": "9:00",
-            "count": 4
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 5
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 4
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 604,
-        "query": "Moose Knuckles",
-        "featured": true,
-        "count": 14,
-        "category": "Footwear",
-        "type": "Shoes",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 3
-          },
-          {
-            "hour": "9:00",
-            "count": 4
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 536,
         "query": "Balenciaga",
-        "featured": true,
-        "count": 23,
-        "category": "Footwear",
-        "type": "Sustainable",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 2
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 2
-          },
-          {
-            "hour": "19:00",
-            "count": 4
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "count": 6,
+        "category": "Footwear"
       },
       {
-        "id": 700,
-        "query": "MCM",
-        "featured": true,
-        "count": 23,
-        "category": "Footwear",
-        "type": "Jackets",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 3
-          },
-          {
-            "hour": "10:00",
-            "count": 1
-          },
-          {
-            "hour": "11:00",
-            "count": 3
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 1
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 157,
-        "query": "Jacquemus",
-        "featured": false,
-        "count": 48,
-        "category": "Clothing",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 6
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 5
-          },
-          {
-            "hour": "12:00",
-            "count": 6
-          },
-          {
-            "hour": "13:00",
-            "count": 5
-          },
-          {
-            "hour": "14:00",
-            "count": 6
-          },
-          {
-            "hour": "15:00",
-            "count": 5
-          },
-          {
-            "hour": "16:00",
-            "count": 5
-          },
-          {
-            "hour": "17:00",
-            "count": 6
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 922,
-        "query": "Jacquemus",
-        "featured": true,
-        "count": 13,
-        "category": "Footwear",
-        "type": "Denim",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 248,
-        "query": "Gucci",
-        "featured": true,
-        "count": 48,
-        "category": "Clothing",
-        "type": "Trench Coats",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 6
-          },
-          {
-            "hour": "13:00",
-            "count": 4
-          },
-          {
-            "hour": "14:00",
-            "count": 6
-          },
-          {
-            "hour": "15:00",
-            "count": 4
-          },
-          {
-            "hour": "16:00",
-            "count": 4
-          },
-          {
-            "hour": "17:00",
-            "count": 5
-          },
-          {
-            "hour": "18:00",
-            "count": 4
-          },
-          {
-            "hour": "19:00",
-            "count": 5
-          },
-          {
-            "hour": "20:00",
-            "count": 6
-          },
-          {
-            "hour": "21:00",
-            "count": 4
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 810,
-        "query": "Canada Goose",
-        "featured": true,
-        "count": 17,
-        "category": "Clothing",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 1
-          },
-          {
-            "hour": "9:00",
-            "count": 2
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 1
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 648,
-        "query": "Celine",
-        "featured": false,
-        "count": 25,
-        "category": "Footwear",
-        "type": "Knitwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 4
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 4
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 4
-          },
-          {
-            "hour": "19:00",
-            "count": 2
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 304,
-        "query": "Burberry",
-        "featured": false,
-        "count": 12,
-        "category": "Footwear",
-        "type": "Dresses",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 1
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 1
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 1
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 1
-          },
-          {
-            "hour": "20:00",
-            "count": 2
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 365,
-        "query": "Celine",
-        "featured": true,
-        "count": 13,
-        "category": "Accessories",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 1
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 1
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 893,
-        "query": "Balmain",
-        "featured": true,
-        "count": 13,
-        "category": "Clothing",
-        "type": "Jackets",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 1
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 1
-          },
-          {
-            "hour": "18:00",
-            "count": 2
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 672,
-        "query": "Fendi",
-        "featured": true,
-        "count": 14,
-        "category": "Footwear",
-        "type": "Dresses",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 3
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 852,
-        "query": "Balmain",
-        "featured": true,
-        "count": 0,
-        "category": "Accessories",
-        "type": "Dresses",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 0
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 356,
-        "query": "Versace",
-        "featured": true,
-        "count": 40,
-        "category": "Footwear",
-        "type": "Knitwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 4
-          },
-          {
-            "hour": "13:00",
-            "count": 5
-          },
-          {
-            "hour": "14:00",
-            "count": 6
-          },
-          {
-            "hour": "15:00",
-            "count": 6
-          },
-          {
-            "hour": "16:00",
-            "count": 5
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 6
-          },
-          {
-            "hour": "19:00",
-            "count": 4
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 423,
-        "query": "Versace",
-        "featured": true,
-        "count": 3,
-        "category": "Clothing",
-        "type": "Bohemian",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 1
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 978,
-        "query": "Saint Laurent",
-        "featured": false,
-        "count": 36,
-        "category": "Clothing",
-        "type": "Sneakers",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 5
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 5
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 4
-          },
-          {
-            "hour": "20:00",
-            "count": 5
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "query": "Lanvin",
-        "featured": true,
-        "count": 5,
-        "category": "Footwear",
-        "type": "Sneakers",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 179,
-        "query": "Acne Studios",
-        "featured": true,
-        "count": 19,
-        "category": "Clothing",
-        "type": "Knitwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 3
-          },
-          {
-            "hour": "9:00",
-            "count": 3
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 4
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 884,
-        "query": "Dolce & Gabbana",
-        "featured": true,
-        "count": 32,
-        "category": "Clothing",
-        "type": "Sustainable",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 5
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 5
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 5
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 238,
-        "query": "Fendi",
-        "featured": true,
-        "count": 10,
-        "category": "Clothing",
-        "type": "Bohemian",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 450,
-        "query": "Balmain",
-        "featured": true,
-        "count": 5,
-        "category": "Footwear",
-        "type": "Streetwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 0
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 217,
-        "query": "Loewe",
-        "featured": true,
-        "count": 8,
-        "category": "Footwear",
-        "type": "Shoes",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 690,
-        "query": "Gianvito Rossi",
-        "featured": true,
-        "count": 0,
-        "category": "Accessories",
-        "type": "Trench Coats",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 0
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 117,
-        "query": "Veja",
-        "featured": true,
-        "count": 4,
-        "category": "Footwear",
-        "type": "Streetwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 31,
-        "query": "Dsquared2",
-        "featured": true,
-        "count": 21,
-        "category": "Accessories",
-        "type": "Sustainable",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 1
-          },
-          {
-            "hour": "9:00",
-            "count": 2
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 3
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 729,
-        "query": "Givenchy",
-        "featured": true,
-        "count": 40,
-        "category": "Accessories",
-        "type": "Shoes",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 5
-          },
-          {
-            "hour": "9:00",
-            "count": 6
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 6
-          },
-          {
-            "hour": "12:00",
-            "count": 5
-          },
-          {
-            "hour": "13:00",
-            "count": 5
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 4
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 193,
-        "query": "Stone Island",
-        "featured": true,
-        "count": 10,
-        "category": "Footwear",
-        "type": "Streetwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 1
-          },
-          {
-            "hour": "17:00",
-            "count": 1
-          },
-          {
-            "hour": "18:00",
-            "count": 2
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 2
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 485,
-        "query": "Canada Goose",
-        "featured": true,
-        "count": 54,
-        "category": "Accessories",
-        "type": "Jackets",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 5
-          },
-          {
-            "hour": "9:00",
-            "count": 6
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 4
-          },
-          {
-            "hour": "12:00",
-            "count": 5
-          },
-          {
-            "hour": "13:00",
-            "count": 4
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 5
-          },
-          {
-            "hour": "16:00",
-            "count": 4
-          },
-          {
-            "hour": "17:00",
-            "count": 6
-          },
-          {
-            "hour": "18:00",
-            "count": 6
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 430,
-        "query": "Lanvin",
-        "featured": true,
-        "count": 28,
-        "category": "Clothing",
-        "type": "Sneakers",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 4
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 4
-          },
-          {
-            "hour": "16:00",
-            "count": 4
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 822,
-        "query": "Lanvin",
-        "featured": true,
-        "count": 20,
-        "category": "Clothing",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 4
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 3
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 594,
-        "query": "Aquazzura",
-        "featured": false,
-        "count": 35,
-        "category": "Footwear",
-        "type": "Trench Coats",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 4
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 5
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 4
-          },
-          {
-            "hour": "19:00",
-            "count": 4
-          },
-          {
-            "hour": "20:00",
-            "count": 3
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 782,
-        "query": "Valentino",
-        "featured": true,
-        "count": 15,
-        "category": "Accessories",
-        "type": "Knitwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 4
-          },
-          {
-            "hour": "15:00",
-            "count": 4
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 854,
-        "query": "Alexander McQueen",
-        "featured": false,
-        "count": 0,
-        "category": "Accessories",
-        "type": "Shoes",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 0
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 54,
-        "query": "Etro",
-        "featured": true,
-        "count": 21,
-        "category": "Footwear",
-        "type": "Minimalist",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 4
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 4
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 2
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 720,
         "query": "Kenzo",
-        "featured": true,
-        "count": 15,
-        "category": "Footwear",
-        "type": "Denim",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 3
-          },
-          {
-            "hour": "9:00",
-            "count": 4
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 0
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "count": 7,
+        "category": "Clothing"
       },
       {
-        "id": 907,
-        "query": "Moncler",
-        "featured": true,
+        "query": "Acne Studios",
+        "count": 3,
+        "category": "Footwear"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 3,
+        "category": "Clothing"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 2
+      },
+      {
+        "query": "Celine",
+        "count": 1,
+        "category": "Accessories"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 5
+      },
+      {
+        "query": "Etro",
+        "count": 0,
+        "category": "Footwear"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 7,
+        "category": "Footwear"
+      },
+      {
+        "query": "Versace",
+        "count": 4,
+        "category": "Footwear"
+      },
+      {
+        "query": "Miu Miu",
+        "count": 5
+      },
+      {
+        "query": "MCM",
+        "count": 3,
+        "category": "Clothing"
+      },
+      {
+        "query": "Prada",
+        "count": 3,
+        "category": "Footwear"
+      },
+      {
+        "query": "Celine",
+        "count": 1
+      },
+      {
+        "query": "Stella McCartney",
         "count": 8,
-        "category": "Accessories",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 1
-          },
-          {
-            "hour": "9:00",
-            "count": 2
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 0
-          },
-          {
-            "hour": "15:00",
-            "count": 0
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "category": "Footwear"
       },
       {
-        "id": 517,
-        "query": "Bally",
-        "featured": true,
-        "count": 8,
-        "category": "Accessories",
-        "type": "Knitwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 2
-          },
-          {
-            "hour": "10:00",
-            "count": 1
-          },
-          {
-            "hour": "11:00",
-            "count": 0
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 1
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "query": "Moose Knuckles",
+        "count": 7,
+        "category": "Clothing"
       },
       {
-        "id": 846,
-        "query": "Tom Ford",
-        "featured": true,
-        "count": 22,
-        "category": "Accessories",
-        "type": "Jackets",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 1
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 1
-          },
-          {
-            "hour": "17:00",
-            "count": 3
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 2
-          },
-          {
-            "hour": "20:00",
-            "count": 1
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "query": "Burberry",
+        "count": 6
       },
       {
-        "id": 647,
-        "query": "Tom Ford",
-        "featured": true,
-        "count": 12,
-        "category": "Accessories",
-        "type": "Sustainable",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 2
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 2
-          },
-          {
-            "hour": "16:00",
-            "count": 0
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "query": "The Row",
+        "count": 1,
+        "category": "Footwear"
       },
       {
-        "id": 795,
-        "query": "Isabel Marant",
-        "featured": true,
-        "count": 16,
-        "category": "Footwear",
-        "type": "Trench Coats",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 0
-          },
-          {
-            "hour": "11:00",
-            "count": 3
-          },
-          {
-            "hour": "12:00",
-            "count": 3
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 1
-          },
-          {
-            "hour": "15:00",
-            "count": 2
-          },
-          {
-            "hour": "16:00",
-            "count": 1
-          },
-          {
-            "hour": "17:00",
-            "count": 3
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 652,
-        "query": "Brunello Cucinelli",
-        "featured": true,
-        "count": 13,
-        "category": "Footwear",
-        "type": "Suits",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 0
-          },
-          {
-            "hour": "10:00",
-            "count": 3
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 1
-          },
-          {
-            "hour": "13:00",
-            "count": 1
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 2
-          },
-          {
-            "hour": "16:00",
-            "count": 2
-          },
-          {
-            "hour": "17:00",
-            "count": 0
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 696,
-        "query": "Gianvito Rossi",
-        "featured": true,
-        "count": 42,
-        "category": "Clothing",
-        "type": "Streetwear",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 5
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 3
-          },
-          {
-            "hour": "12:00",
-            "count": 4
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 3
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 5
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 5
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 896,
-        "query": "Salvatore Ferragamo",
-        "featured": true,
-        "count": 45,
-        "category": "Accessories",
-        "type": "Jackets",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 5
-          },
-          {
-            "hour": "9:00",
-            "count": 5
-          },
-          {
-            "hour": "10:00",
-            "count": 4
-          },
-          {
-            "hour": "11:00",
-            "count": 4
-          },
-          {
-            "hour": "12:00",
-            "count": 5
-          },
-          {
-            "hour": "13:00",
-            "count": 4
-          },
-          {
-            "hour": "14:00",
-            "count": 5
-          },
-          {
-            "hour": "15:00",
-            "count": 5
-          },
-          {
-            "hour": "16:00",
-            "count": 4
-          },
-          {
-            "hour": "17:00",
-            "count": 4
-          },
-          {
-            "hour": "18:00",
-            "count": 0
-          },
-          {
-            "hour": "19:00",
-            "count": 0
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
-      },
-      {
-        "id": 906,
-        "query": "Gianvito Rossi",
-        "featured": false,
-        "count": 26,
-        "category": "Footwear",
-        "type": "Dresses",
-        "timeSeries": [
-          {
-            "hour": "0:00",
-            "count": 0
-          },
-          {
-            "hour": "1:00",
-            "count": 0
-          },
-          {
-            "hour": "2:00",
-            "count": 0
-          },
-          {
-            "hour": "3:00",
-            "count": 0
-          },
-          {
-            "hour": "4:00",
-            "count": 0
-          },
-          {
-            "hour": "5:00",
-            "count": 0
-          },
-          {
-            "hour": "6:00",
-            "count": 0
-          },
-          {
-            "hour": "7:00",
-            "count": 0
-          },
-          {
-            "hour": "8:00",
-            "count": 0
-          },
-          {
-            "hour": "9:00",
-            "count": 2
-          },
-          {
-            "hour": "10:00",
-            "count": 2
-          },
-          {
-            "hour": "11:00",
-            "count": 2
-          },
-          {
-            "hour": "12:00",
-            "count": 2
-          },
-          {
-            "hour": "13:00",
-            "count": 3
-          },
-          {
-            "hour": "14:00",
-            "count": 2
-          },
-          {
-            "hour": "15:00",
-            "count": 3
-          },
-          {
-            "hour": "16:00",
-            "count": 3
-          },
-          {
-            "hour": "17:00",
-            "count": 2
-          },
-          {
-            "hour": "18:00",
-            "count": 3
-          },
-          {
-            "hour": "19:00",
-            "count": 2
-          },
-          {
-            "hour": "20:00",
-            "count": 0
-          },
-          {
-            "hour": "21:00",
-            "count": 0
-          },
-          {
-            "hour": "22:00",
-            "count": 0
-          },
-          {
-            "hour": "23:00",
-            "count": 0
-          }
-        ]
+        "query": "Dsquared2",
+        "count": 1,
+        "category": "Footwear"
       }
-    ]
+    ],
+    "gigsUsedToday": 3.7,
+    "costToday": 1.09
+  },
+  {
+    "endpoint": "US-EAST1",
+    "requestsToday": 197,
+    "totalQueries": 178,
+    "successRate": 69.4,
+    "queries": [
+      {
+        "query": "The Row",
+        "count": 3,
+        "category": "Clothing"
+      },
+      {
+        "query": "Versace",
+        "count": 5,
+        "category": "Footwear"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 2,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 8,
+        "category": "Accessories"
+      },
+      {
+        "query": "Acne Studios",
+        "count": 9,
+        "category": "Footwear"
+      },
+      {
+        "query": "Balenciaga",
+        "count": 2
+      }
+    ],
+    "gigsUsedToday": 3.1,
+    "costToday": 1.78
+  },
+  {
+    "endpoint": "EUROPE-WEST4",
+    "requestsToday": 1665,
+    "totalQueries": 5721,
+    "successRate": 93.5,
+    "queries": [
+      {
+        "query": "Jimmy Choo",
+        "count": 36,
+        "category": "Accessories"
+      },
+      {
+        "query": "Fendi",
+        "count": 49,
+        "category": "Footwear"
+      },
+      {
+        "query": "Valentino",
+        "count": 6
+      },
+      {
+        "query": "Kenzo",
+        "count": 33
+      },
+      {
+        "query": "Kenzo",
+        "count": 40,
+        "category": "Clothing"
+      },
+      {
+        "query": "Dsquared2",
+        "count": 38,
+        "category": "Clothing"
+      },
+      {
+        "query": "Burberry",
+        "count": 5
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 24
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 39
+      },
+      {
+        "query": "Balmain",
+        "count": 31
+      },
+      {
+        "query": "Fendi",
+        "count": 31
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 5,
+        "category": "Footwear"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 27
+      },
+      {
+        "query": "Etro",
+        "count": 49,
+        "category": "Clothing"
+      },
+      {
+        "query": "Prada",
+        "count": 25,
+        "category": "Accessories"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 32,
+        "category": "Footwear"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 46,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 49
+      },
+      {
+        "query": "Kenzo",
+        "count": 31,
+        "category": "Accessories"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 13,
+        "category": "Accessories"
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 35,
+        "category": "Footwear"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 45
+      },
+      {
+        "query": "Celine",
+        "count": 11,
+        "category": "Footwear"
+      },
+      {
+        "query": "Etro",
+        "count": 11
+      },
+      {
+        "query": "Balenciaga",
+        "count": 20,
+        "category": "Footwear"
+      },
+      {
+        "query": "Kenzo",
+        "count": 33,
+        "category": "Clothing"
+      },
+      {
+        "query": "Miu Miu",
+        "count": 44,
+        "category": "Accessories"
+      },
+      {
+        "query": "Prada",
+        "count": 18,
+        "category": "Footwear"
+      },
+      {
+        "query": "Givenchy",
+        "count": 3
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 26,
+        "category": "Footwear"
+      }
+    ],
+    "gigsUsedToday": 7.6,
+    "costToday": 1.69
+  },
+  {
+    "endpoint": "US-CENTRAL1",
+    "requestsToday": 1013,
+    "totalQueries": 2171,
+    "successRate": 95.2,
+    "queries": [
+      {
+        "query": "Louboutin",
+        "count": 22,
+        "category": "Clothing"
+      },
+      {
+        "query": "The Row",
+        "count": 28
+      },
+      {
+        "query": "Louboutin",
+        "count": 0,
+        "category": "Clothing"
+      },
+      {
+        "query": "Golden Goose",
+        "count": 44,
+        "category": "Footwear"
+      },
+      {
+        "query": "Louboutin",
+        "count": 4,
+        "category": "Accessories"
+      },
+      {
+        "query": "Versace",
+        "count": 1,
+        "category": "Clothing"
+      },
+      {
+        "query": "Prada",
+        "count": 28,
+        "category": "Clothing"
+      },
+      {
+        "query": "Etro",
+        "count": 31,
+        "category": "Footwear"
+      },
+      {
+        "query": "Celine",
+        "count": 21,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 8
+      },
+      {
+        "query": "The Row",
+        "count": 10,
+        "category": "Footwear"
+      },
+      {
+        "query": "Prada",
+        "count": 18,
+        "category": "Footwear"
+      },
+      {
+        "query": "Balmain",
+        "count": 25,
+        "category": "Footwear"
+      },
+      {
+        "query": "Givenchy",
+        "count": 31,
+        "category": "Footwear"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 41
+      },
+      {
+        "query": "Balmain",
+        "count": 26
+      },
+      {
+        "query": "MCM",
+        "count": 41
+      },
+      {
+        "query": "Prada",
+        "count": 35,
+        "category": "Clothing"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 15,
+        "category": "Clothing"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 32,
+        "category": "Clothing"
+      },
+      {
+        "query": "Versace",
+        "count": 25
+      },
+      {
+        "query": "Fendi",
+        "count": 14,
+        "category": "Accessories"
+      },
+      {
+        "query": "Kenzo",
+        "count": 47,
+        "category": "Clothing"
+      },
+      {
+        "query": "Acne Studios",
+        "count": 45,
+        "category": "Accessories"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 13,
+        "category": "Clothing"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 11,
+        "category": "Accessories"
+      },
+      {
+        "query": "The Row",
+        "count": 25
+      },
+      {
+        "query": "Jacquemus",
+        "count": 5,
+        "category": "Footwear"
+      },
+      {
+        "query": "Miu Miu",
+        "count": 7
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 36,
+        "category": "Accessories"
+      },
+      {
+        "query": "The Row",
+        "count": 31,
+        "category": "Clothing"
+      },
+      {
+        "query": "Versace",
+        "count": 43,
+        "category": "Footwear"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 16,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 25,
+        "category": "Accessories"
+      },
+      {
+        "query": "Dsquared2",
+        "count": 29
+      },
+      {
+        "query": "Jacquemus",
+        "count": 11,
+        "category": "Footwear"
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 44
+      },
+      {
+        "query": "Golden Goose",
+        "count": 29
+      },
+      {
+        "query": "Miu Miu",
+        "count": 24,
+        "category": "Clothing"
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 17,
+        "category": "Clothing"
+      },
+      {
+        "query": "MCM",
+        "count": 31,
+        "category": "Footwear"
+      },
+      {
+        "query": "Golden Goose",
+        "count": 31,
+        "category": "Clothing"
+      },
+      {
+        "query": "Prada",
+        "count": 17,
+        "category": "Footwear"
+      },
+      {
+        "query": "Valentino",
+        "count": 36,
+        "category": "Footwear"
+      },
+      {
+        "query": "Celine",
+        "count": 12
+      }
+    ],
+    "gigsUsedToday": 10.9,
+    "costToday": 6.98
+  },
+  {
+    "endpoint": "US-EAST4",
+    "requestsToday": 1494,
+    "totalQueries": 2962,
+    "successRate": 97.9,
+    "queries": [
+      {
+        "query": "Valentino",
+        "count": 39,
+        "category": "Clothing"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 18,
+        "category": "Footwear"
+      },
+      {
+        "query": "Golden Goose",
+        "count": 47,
+        "category": "Footwear"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 22,
+        "category": "Accessories"
+      },
+      {
+        "query": "Golden Goose",
+        "count": 9,
+        "category": "Footwear"
+      },
+      {
+        "query": "Prada",
+        "count": 48,
+        "category": "Footwear"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 12,
+        "category": "Clothing"
+      },
+      {
+        "query": "Burberry",
+        "count": 31,
+        "category": "Footwear"
+      },
+      {
+        "query": "Louboutin",
+        "count": 4,
+        "category": "Clothing"
+      },
+      {
+        "query": "Louboutin",
+        "count": 46,
+        "category": "Accessories"
+      }
+    ],
+    "gigsUsedToday": 11.9,
+    "costToday": 2.51
+  },
+  {
+    "endpoint": "US-WEST1",
+    "requestsToday": 525,
+    "totalQueries": 6196,
+    "successRate": 99.3,
+    "queries": [
+      {
+        "query": "Jimmy Choo",
+        "count": 16,
+        "category": "Clothing"
+      },
+      {
+        "query": "Dsquared2",
+        "count": 27,
+        "category": "Accessories"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 5,
+        "category": "Clothing"
+      },
+      {
+        "query": "Acne Studios",
+        "count": 41,
+        "category": "Footwear"
+      },
+      {
+        "query": "Valentino",
+        "count": 12,
+        "category": "Clothing"
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 5,
+        "category": "Footwear"
+      },
+      {
+        "query": "Jacquemus",
+        "count": 22,
+        "category": "Accessories"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 50
+      },
+      {
+        "query": "Fendi",
+        "count": 4,
+        "category": "Footwear"
+      },
+      {
+        "query": "Versace",
+        "count": 26,
+        "category": "Clothing"
+      },
+      {
+        "query": "The Row",
+        "count": 35,
+        "category": "Footwear"
+      },
+      {
+        "query": "Acne Studios",
+        "count": 16,
+        "category": "Footwear"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 31
+      },
+      {
+        "query": "Golden Goose",
+        "count": 16,
+        "category": "Footwear"
+      },
+      {
+        "query": "Celine",
+        "count": 13,
+        "category": "Clothing"
+      },
+      {
+        "query": "Marni",
+        "count": 21
+      },
+      {
+        "query": "Balenciaga",
+        "count": 38,
+        "category": "Accessories"
+      },
+      {
+        "query": "Etro",
+        "count": 31,
+        "category": "Clothing"
+      },
+      {
+        "query": "Bottega Veneta",
+        "count": 27,
+        "category": "Footwear"
+      },
+      {
+        "query": "Miu Miu",
+        "count": 6
+      },
+      {
+        "query": "Givenchy",
+        "count": 36
+      },
+      {
+        "query": "Dsquared2",
+        "count": 13
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 13,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 29,
+        "category": "Clothing"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 34
+      },
+      {
+        "query": "Marni",
+        "count": 31,
+        "category": "Accessories"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 35,
+        "category": "Clothing"
+      },
+      {
+        "query": "Kenzo",
+        "count": 2
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 19,
+        "category": "Clothing"
+      },
+      {
+        "query": "Fendi",
+        "count": 30,
+        "category": "Accessories"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 16,
+        "category": "Accessories"
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 16,
+        "category": "Accessories"
+      },
+      {
+        "query": "Givenchy",
+        "count": 29
+      },
+      {
+        "query": "Stella McCartney",
+        "count": 3,
+        "category": "Accessories"
+      },
+      {
+        "query": "MCM",
+        "count": 23,
+        "category": "Footwear"
+      },
+      {
+        "query": "Acne Studios",
+        "count": 41,
+        "category": "Clothing"
+      },
+      {
+        "query": "Burberry",
+        "count": 31,
+        "category": "Accessories"
+      },
+      {
+        "query": "Golden Goose",
+        "count": 38,
+        "category": "Footwear"
+      },
+      {
+        "query": "MCM",
+        "count": 49,
+        "category": "Clothing"
+      },
+      {
+        "query": "Moose Knuckles",
+        "count": 0
+      },
+      {
+        "query": "Fendi",
+        "count": 27,
+        "category": "Footwear"
+      },
+      {
+        "query": "Miu Miu",
+        "count": 28,
+        "category": "Accessories"
+      },
+      {
+        "query": "Jimmy Choo",
+        "count": 12,
+        "category": "Accessories"
+      },
+      {
+        "query": "Kenzo",
+        "count": 2,
+        "category": "Footwear"
+      },
+      {
+        "query": "Salvatore Ferragamo",
+        "count": 13,
+        "category": "Footwear"
+      },
+      {
+        "query": "Versace",
+        "count": 21,
+        "category": "Clothing"
+      },
+      {
+        "query": "Burberry",
+        "count": 10,
+        "category": "Footwear"
+      },
+      {
+        "query": "Louboutin",
+        "count": 5,
+        "category": "Clothing"
+      },
+      {
+        "query": "Balmain",
+        "count": 11,
+        "category": "Footwear"
+      }
+    ],
+    "gigsUsedToday": 12.5,
+    "costToday": 3.16
   }
 ]
