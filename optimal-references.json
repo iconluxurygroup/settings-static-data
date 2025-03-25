@@ -1,7 +1,16 @@
-{
-    "shoe": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MGfepTaFjpQhcNFyetjseybIRxLUe58eag&s",
+ {
+    "shoe": "https://s3.us-east-2.amazonaws.com/iconluxurygroup/images/9644db91-1872-4b92-965b-a1f924af5e1e/image_9644db91-1872-4b92-965b-a1f924af5e1e_B659.png",
     "clothing": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYe3Vgmztdh089e9IHLqdPPLuE2jUtV8IZg&s",
     "pant": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStaRmmSmbuIuozGgVJa6GHuR59RuW3W8_8jA&s",
     "jeans": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiKQ5mZWi6qnWCr6Yca5_AFinCDZXhXhiAg&s",
-    "t-shirt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYe3Vgmztdh089e9IHLqdPPLuE2jUtV8IZg&s"
+    "t-shirt": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYe3Vgmztdh089e9IHLqdPPLuE2jUtV8IZg&s",
+    "vest":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoQAmadvbb5lASL9zuPuL56WNFFhdchwt-A&s",
+    "boot":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSeU_v1Y_4ZZRa8zEks1YiNecrUXtM0FfGQ&s",
+    "dress":"https://s3.us-east-2.amazonaws.com/iconluxurygroup/images/9644db91-1872-4b92-965b-a1f924af5e1e/image_9644db91-1872-4b92-965b-a1f924af5e1e_B1224.png",
+    "bag" : "https://s3.us-east-2.amazonaws.com/iconluxurygroup/images/9644db91-1872-4b92-965b-a1f924af5e1e/image_9644db91-1872-4b92-965b-a1f924af5e1e_B990.png",
+    "belt":"https://s3.us-east-2.amazonaws.com/iconluxurygroup/images/9644db91-1872-4b92-965b-a1f924af5e1e/image_9644db91-1872-4b92-965b-a1f924af5e1e_B948.png",
+    "sunglasses":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dovp7mjgUEXcPHICkZ-Iz1zxpNsKyToVDQ&s",
+    "jacket": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvOW6spTSJp8Ebda5w8yaFGxGuQmYLHUAoA&s",
+    "hat": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkyqOpIB9aukpLuHYCIyLHyGUYkFVk0DBRHg&s",
+    "cap":"https://s3.us-east-2.amazonaws.com/iconluxurygroup/images/9644db91-1872-4b92-965b-a1f924af5e1e/image_9644db91-1872-4b92-965b-a1f924af5e1e_B1096.png"
 }
