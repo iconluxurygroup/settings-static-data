@@ -1,0 +1,18 @@
+{
+    "clothing": ["tops", "bottoms", "outerwear", "dresses"],
+    "tops": ["shirts", "vests"],
+    "shirts": ["t-shirts", "dress shirts"],
+    "vests": [],
+    "bottoms": ["pants"],
+    "pants": ["jeans", "trousers", "chinos"],
+    "outerwear": ["jackets"],
+    "jackets": ["coats", "blazers"],
+    "dresses": [],
+    "footwear": ["shoes"],
+    "shoes": ["boots", "sneakers"],
+    "accessories": ["hats", "belts", "bags", "sunglasses"],
+    "hats": ["caps", "beanies"],
+    "belts": [],
+    "bags": [],
+    "sunglasses": []
+}
