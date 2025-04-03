@@ -1,5 +1,4 @@
 {
-    "clothing": ["tops", "bottoms", "outerwear", "dresses"],
     "tops": ["shirts", "vests"],
     "shirts": ["t-shirts", "dress shirts"],
     "vests": [],
